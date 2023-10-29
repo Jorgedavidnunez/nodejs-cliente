@@ -1,8 +1,8 @@
 module.exports = {
-    HOST: "localhost",
-    USER: "postgres",
-    PASSWORD: "changeme",
-    DB: "crudreact",
+    HOST: "dpg-ckuvhda37rbc73dqvao0-a.oregon-postgres.render.com",
+    USER: "clientetest_user",
+    PASSWORD: "SgKQhPj5ucyqpk09QWfIwzv2ZFvhn4Gh",
+    DB: "clientetest",
     dialect: "postgres",
     pool: {
       max: 5,
